@@ -1,0 +1,20 @@
+.contentContainer {
+  background-color: #161624;
+  height: 200vh;
+  width: 100vw;
+  text-align: center;
+  padding: 20px;
+}
+
+.listContainer {
+  height: 50vh;
+  overflow: auto;
+  border-radius: 10px;
+}
+
+.flagListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+  gap: 3px;
+}

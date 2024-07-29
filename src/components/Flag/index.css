@@ -1,0 +1,27 @@
+.flagContainer {
+  display: flex;
+  flex-direction: column;
+  height: 180px;
+  width: 250px;
+}
+
+.flagImage {
+  width: 100%;
+  height: 80%;
+}
+
+.flagInfo {
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: #1f1f2f;
+  border: 1px solid #334155;
+}
+
+.flagButton {
+  padding: 5px;
+  background-color: transparent;
+  border: 1px solid #334155;
+}
